@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5000/api';
+const API_URL = '/api';
 
 // ── Landmark indices ──────────────────────────────────────
 const L_EAR = [362,385,387,263,373,380];
