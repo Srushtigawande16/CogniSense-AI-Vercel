@@ -1,0 +1,13 @@
+.venv
+venv
+backend/.venv
+backend/dataset
+backend/fer_data
+backend/session_data
+backend/exports
+dataset
+fer_data
+__pycache__
+*.pyc
+*.mp4
+*.zip
